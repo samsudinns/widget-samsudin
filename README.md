@@ -1,5 +1,7 @@
 # widget-samsudin
-
+nama : samsudin
+npm : 213510522
+uas and kuis
 ## Project setup
 ```
 npm install
